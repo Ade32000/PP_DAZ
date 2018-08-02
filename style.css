@@ -1,0 +1,17 @@
+body{
+	background-image:  url("fond.jpg"); /* pour faire des commentaire*/
+	background-repeat: no-repeat;
+	/*background-position: top;*/
+	
+}
+
+#texte{
+	text-align: center;
+	margin-top: 50px;
+	
+}
+
+#photo{
+	display: flex;
+	justify-content: center;
+}
